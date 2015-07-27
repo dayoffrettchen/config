@@ -1,0 +1,16 @@
+"3.9 (created: 2015/02/15 15:49:05)
+
+inoremap <C-a> <Insert><C-a><Insert>
+nnoremap s f
+nnoremap h b
+nnoremap j t
+nnoremap k n
+nnoremap l r 
+nnoremap b h
+nnoremap t j
+nnoremap n k
+nnoremap r l 
+set hintchars=hmiers
+source! /home/dume/.vimperatorrc.local
+
+" vim: set ft=vimperator:
